@@ -4,7 +4,7 @@ One of the highlights of Game Rapture is its integrated store section, where use
 
 With its user-friendly interface, rich content, and seamless navigation, Game Rapture aims to be the ultimate destination for gamers looking to explore, connect, and indulge in their passion for gaming. With its intuitive design, diverse features, and seamless integration with the official Bandai Namco site, Game Rapture aims to be the ultimate destination for gamers seeking entertainment, community, and shopping all in one place.
 
-### Technologies Used: 
+### Technologies Used : 
 - Html
 - CSS
 - JavaScript
